@@ -10,7 +10,7 @@ Done
 - Identified which Arduino pin controls which linear actuator
 - Tested that the linear actuator is strong enough to lift up the base (it is!)
 
-Arduino pins to joint mapping
+Arduino pins to joint mapping (with the white tape on the 4 position header socket that connects to the 4 pins on the H-bridge **facing away from the H-bridge**)
 - Wrist: Pins 4 and 5
 - Elbow: Pins 2 and 3
 - Shoulder: Pins 8 and 9
